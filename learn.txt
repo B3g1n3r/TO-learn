@@ -1,2 +1,6 @@
 Vite, iframe, mvvm, aws, react native, supabase, mongodb
 capacitor, ci/cd pipeline, 
+JUnit, Espresso, XCTest: Unit and UI testing
+App Store & Play Store deployment
+Crash analytics, internationalization
+Node.js / Express
