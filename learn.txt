@@ -4,3 +4,4 @@ JUnit, Espresso, XCTest: Unit and UI testing
 App Store & Play Store deployment
 Crash analytics, internationalization
 Node.js / Express
+bloc
