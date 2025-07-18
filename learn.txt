@@ -1,0 +1,1 @@
+Vite, iframe, mvvm, aws, react native, supabase, mongodb
