@@ -1,1 +1,2 @@
 Vite, iframe, mvvm, aws, react native, supabase, mongodb
+capacitor, ci/cd pipeline, 
