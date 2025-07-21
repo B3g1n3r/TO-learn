@@ -16,3 +16,4 @@ Node.js / Express
 bloc
 platform specific code
 Agile methodologies
+Git, Github copilot
