@@ -5,3 +5,5 @@ App Store & Play Store deployment
 Crash analytics, internationalization
 Node.js / Express
 bloc
+react and native
+platform specific code
