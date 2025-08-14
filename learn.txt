@@ -1,3 +1,4 @@
+Node.js / Express - ongoing
 Vite,
 iframe, 
 mvvm,
@@ -12,7 +13,6 @@ Espresso,
 XCTest: Unit and UI testing
 App Store & Play Store deployment
 Crash analytics, internationalization
-Node.js / Express
 bloc
 platform specific code
 Agile methodologies
