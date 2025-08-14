@@ -1,7 +1,9 @@
 Node.js / Express - ongoing
+mvvm - ongoing
+
 Vite,
 iframe, 
-mvvm,
+
 aws, 
 react native,
 supabase,
